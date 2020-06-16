@@ -1,0 +1,8 @@
+/build/
+/dist_electron/
+/config/
+/dist/
+/*.js
+/test/unit/coverage/
+/src/assets/
+/src/style/icon/
