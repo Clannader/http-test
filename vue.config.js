@@ -70,7 +70,7 @@ module.exports = {
           allowElevation: true, // 允许请求提升。 如果为false，则用户必须使用提升的权限重新启动安装程序。
           allowToChangeInstallationDirectory: true, // 允许修改安装目录
           // installerIcon: './icons/icon.ico',// 安装图标
-          // uninstallerIcon: './build/icons/bbb.ico',//卸载图标
+          // uninstallerIcon: './icons/icon.ico',//卸载图标
           // installerHeaderIcon: './icons/icon.ico', // 安装时头部图标
           createDesktopShortcut: true, // 创建桌面图标
           createStartMenuShortcut: false,// 创建开始菜单图标
